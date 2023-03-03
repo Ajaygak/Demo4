@@ -1,6 +1,4 @@
 hello
-this is my
-first git 
-learing tutorial
-very intresting
-welcome
+this is ajaykumar
+new to git 
+program
